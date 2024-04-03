@@ -1,0 +1,22 @@
+#row-header {
+  height: 20vh;
+}
+#logo {
+  width: 10vw;
+  height: 10vh;
+}
+.card {
+  width: 20vw;
+}
+.card-img-top {
+  width: 20vw;
+  height: 50%;
+  object-fit: contain;
+}
+.card-body {
+  height: 50%;
+}
+#row-footer {
+  width: 100vw;
+  height: 10vh;
+}
